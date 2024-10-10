@@ -1,3 +1,5 @@
+[![Gradle Package](https://github.com/claudsan/java-jasper-com-subreport/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/claudsan/java-jasper-com-subreport/actions/workflows/gradle-publish.yml)
+
 # Exemplo de uso do Jasper Reports
 
 Imagine que você está criando um relatório de vendas mensal para sua empresa. Esse relatório precisa mostrar os totais de vendas por produto, mas também detalhar as vendas diárias para cada produto específico. Para isso, utilizaremos sub-relatórios.
